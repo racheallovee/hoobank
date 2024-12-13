@@ -1,11 +1,11 @@
 import styles from "./style";
 import {
   Billing,
-  Business,
-  CardDeal,
-  Clients,
+  Business,            
+  CardDeal,                        
+  Clients,                           
   CTA,
-  Footer,
+  Footer,       
   Navbar,
   Stats,
   Testimonials,
